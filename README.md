@@ -24,10 +24,7 @@
 
 - :seedling: Exploring building Graph APIs.
 
-- 📖 In my free time, I enjoy reading tech articles.
-
-- :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Gautam%20Mehta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gautam417/)
-
+- 📖 In my free time, I enjoy playing golf, soccer, and reading.
 ---
 
 ### :hammer_and_wrench: Languages and Tools
