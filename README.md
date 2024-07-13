@@ -25,6 +25,7 @@
 
 ### :hammer_and_wrench: Languages and Tools
 <div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
@@ -60,7 +61,5 @@
 
 ---
 
-### :fire: My Stats
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautam417&show_icons=true&locale=en" alt="gautam417" /></p>
 <!--
 **gautam417/gautam417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
