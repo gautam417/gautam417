@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :cloud: I am contributing to the Backend.
+- :cloud: I am contributing to the Backend. Recently I learned a new coding language Elixir.
 
 - :seedling: Exploring building Graph APIs.
 
